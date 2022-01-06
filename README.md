@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS and Python.**
 
-- 👨‍💻 All of my projects are available at [https://www.pbdev.ml](https://www.pbdev.ml)
+- 👨‍💻 All of my projects are available at [My Website](https://pbdev.ml)
 
 - 💬 Ask me about **JavaScript, Node, HTML.**
 
